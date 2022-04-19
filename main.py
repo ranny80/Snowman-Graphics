@@ -6,6 +6,7 @@ snowman = turtle.Turtle()
 # Background color
 canvas.bgcolor("light blue")
 
+# Title
 canvas.title("Snowman Graphics")
 snowman.shape("circle")
 
