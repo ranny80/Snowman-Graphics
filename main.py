@@ -1,6 +1,6 @@
 import turtle
 
-canvas = turtle.Screen()
+canvas = turtle.Screen() #
 snowman = turtle.Turtle()
 
 # Background color
